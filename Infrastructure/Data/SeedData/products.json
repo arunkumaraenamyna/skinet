@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Angular Speedster Board 2000",
+    "Descriptiion": "Lorem ipsum dolor sit amet.",
+    "Price": 200,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Green Angular Board 3000",
+    "Descriptiion": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150,
+    "PictureUrl": "images/products/sb-ang2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  }
+]
